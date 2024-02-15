@@ -4,7 +4,7 @@ import { motion } from "framer-motion"
 const Introduction = () => {
   return (
     <div className='bg-gradient-to-tl from-[#83472A] via-[#26150D] to-black h-screen'>
-      <div className='h-screen flex items-center flex-col justify-center'>
+      <div className='h-screen flex items-center flex-col justify-center text-center'>
         <motion.div
           initial={{ opacity: 0, x:-200 }}
           animate={{ opacity: 1, x:0 }}
