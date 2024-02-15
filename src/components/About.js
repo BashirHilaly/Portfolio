@@ -54,7 +54,7 @@ const About = () => {
             <div className='flex flex-col items-center'>
               <p className='lg:text-left text-[#D9D9D9] text-3xl p-6 sm:text-center'>
                 I’m a passionate Web and Software Developer situated in Philadelphia, PA. 
-                With a penchant for clean code, elegant design, and seamless user experiences, I thrive on turning complex problems into elegant solutions. 
+                With an affinity for clean code, elegant design, and seamless user experiences, I thrive on turning complex problems into polished solutions. 
                 Whether it’s crafting pixel-perfect interfaces or architecting robust backends, I’m your go-to developer. 
               </p>
             </div>
