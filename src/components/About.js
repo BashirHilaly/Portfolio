@@ -97,7 +97,7 @@ const About = () => {
                 viewport={{ once: true }}
                 transition={{ type: "spring", duration: 2, delay: 0.2 }}
                 >
-                  <div class="bg-[#BB9457] h-6 w-10/12 rounded-md">
+                  <div class="bg-[#BB9457] h-6 w-11/12 rounded-md">
                     <div className='bg-[#99582A] h-6 w-24 text-center text-white text-xs font-bold rounded-md'>PYTHON</div>
                   </div>
                 </motion.div>
@@ -149,7 +149,7 @@ const About = () => {
                 viewport={{ once: true }}
                 transition={{ type: "spring", duration: 2, delay: 0.2 }}
                 >
-                  <div class="bg-[#BB9457] h-6 w-7/12 rounded-md">
+                  <div class="bg-[#BB9457] h-6 w-10/12 rounded-md">
                     <div className='bg-[#99582A] h-6 w-24 text-center text-white text-xs font-bold rounded-md'>JAVASCRIPT</div>
                   </div>
                 </motion.div>
@@ -162,7 +162,7 @@ const About = () => {
                 viewport={{ once: true }}
                 transition={{ type: "spring", duration: 2, delay: 0.2 }}
                 >
-                  <div class="bg-[#BB9457] h-6 w-6/12 rounded-md">
+                  <div class="bg-[#BB9457] h-6 w-7/12 rounded-md">
                     <div className='bg-[#99582A] h-6 w-24 text-center text-white text-xs font-bold rounded-md'>UI DESIGN</div>
                   </div>
                 </motion.div>
