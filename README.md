@@ -8,4 +8,4 @@
 
 [![Bashir's GitHub stats](https://github-readme-stats.vercel.app/api?username=bashirhilaly)](https://github.com/bashirhilaly/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bashirhilaly&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bashirhilaly&hide_progress=false)
