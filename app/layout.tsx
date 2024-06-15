@@ -1,17 +1,13 @@
 import type { Metadata } from "next";
-import { IBM_Plex_Sans } from "next/font/google";
+import { Inter } from "next/font/google";
 import "./globals.css";
 import { cn } from "@/lib/utils";
 
-const IBMPlex = IBM_Plex_Sans({ 
-  subsets: ["latin"],
-  weight: ['400', '500', '600', '700'],
-  variable: '--font-ibm-plex'
- });
+const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "LyricLoom",
-  description: "AI Ghostwriter",
+  title: "Bashir Hilaly",
+  description: "Portfolio Website",
 };
 
 export default function RootLayout({
@@ -21,7 +17,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={cn("font-IBMPlex antialiased", IBMPlex.variable)}>
+      <body className={inter.className}>
         {children}
       </body>
     </html>
